@@ -1,1 +1,1 @@
-# Quadratic-funding-rounds
+# EcoSynthesisX-Quadratic-funding-rounds
