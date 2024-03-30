@@ -1,9 +1,10 @@
-# EcoSynthesisX-Quadratic-funding-rounds
+### **EcoSynthesisX-Quadratic-funding-rounds**
 
-Currently running EcoSynthesysX Spring Round on Optimism Arbitrum Polygon zkSync Base:
+From February, we are running multichain quadratic funding rounds on [Gitcoin](https://explorer.gitcoin.co)
 
-* zkSync [https://explorer.gitcoin.co/#/chains/324/rounds/0x2dbf25d8b490bc7a3e622309dd99a248c8b82776](https://explorer.gitcoin.co/#/round/324/0x2dbf25d8b490bc7a3e622309dd99a248c8b82776)
-* Optimism [https://explorer.gitcoin.co/#/chains/10/rounds/0xe7fccab24b5469ff2ff8898875b43a992aacb56f](https://explorer.gitcoin.co/#/round/10/0xe7fccab24b5469ff2ff8898875b43a992aacb56f)
-* Arbitrum [https://explorer.gitcoin.co/#/chains/42161/rounds/0x022dea50d223d50eadeebcb42166289f0b98bf77](https://explorer.gitcoin.co/#/round/42161/0x022dea50d223d50eadeebcb42166289f0b98bf77)
-* Base [https://explorer.gitcoin.co/#/chains/8453/rounds/0x5d1b2d06d472ffff89edc666101b56c35d1217d8](https://explorer.gitcoin.co/#/round/8453/0x5d1b2d06d472ffff89edc666101b56c35d1217d8)https://explorer.gitcoin.co/#/round/8453/0x5d1b2d06d472ffff89edc666101b56c35d1217d8
-* Polygon (https://explorer.gitcoin.co/#/round/137/0x56e3ad5325f6b10e4d524731f37479d8f17153b7)https://explorer.gitcoin.co/#/round/137/0x56e3ad5325f6b10e4d524731f37479d8f17153b7
+To check out the rounds and projects on old 1st of Allo Protocol, open [this file](https://github.com/EcoSynthesisX/Public-good-funding-activity/blob/main/AlloV1.md)
+
+To  heck out the rohnds and projects on Allo V2, open 
+
+Consider to vote and donate. We are also ready to support and guide you in case you are willing to deliver your own local QF round. 
+Please contact us on [Discord](https://discord.gg/MhpZquFf) 
